@@ -1,0 +1,39 @@
+site_name: 'MToExcel说明文档'
+theme:
+  name: material
+  palette: 
+
+    # Palette toggle for light mode
+    - scheme: default
+      toggle:
+        icon: material/brightness-7 
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  language: "zh"
+repo_url: 'https://github.com/leehamCode/MToExcel'
+repo_name: 'leehamCode/MToExcel'
+nav:
+  - 首页: index.md
+  - 开始使用: second.md
+  - 属性Attribute: third.md
+  - 类Attribute: fourth.md
+  - 可共用Attribute: fifth.md
+  - 自定义表头/尾,行操作: sixth.md
+  - 其他内容: other.md
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg  
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences    
