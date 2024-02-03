@@ -23,7 +23,7 @@ public class TestClass2
 }
 ```
 
-![例图](http://img.leepichome.top/mtoexcel.png)
+![例图](https://raw.githubusercontent.com/leehamCode/MyPics/main/mtoexcel.png)
 
 #### <font color=licyan>2.IgnoreType 属性忽略标签</font>
 
@@ -51,7 +51,7 @@ public class Person
 }
 ```
 
-![例图2](http://img.leepichome.top/Mytest.png)
+![例图2](https://raw.githubusercontent.com/leehamCode/MyPics/main/Mytest.png)
 
 #### <font color=licyan>3.MergeNearEqualBox 同列临接相同属性合并标签[只实现了同列]</font>
 
@@ -116,7 +116,7 @@ static void Main(string[] args)
 }
 ```
 
-![示例图](http://img.leepichome.top/open1.png)
+![示例图](https://raw.githubusercontent.com/leehamCode/MyPics/main/open1.png)
 
 #### <font color=licyan>4. BackForeColor背景颜色标签</font>
 
@@ -186,7 +186,7 @@ static void Main(string[] args)
 }
 ```
 
-![图例](http://img.leepichome.top/mtoexcel.png)
+![图例](https://raw.githubusercontent.com/leehamCode/MyPics/main/mtoexcel.png)
 
 #### <font color=licyan>5.DynaRowColumnLen单元格长宽标签</font>
 
@@ -203,7 +203,7 @@ static void Main(string[] args)
 
 同上
 
-![图例](http://img.leepichome.top/mtoexcel.png)
+![图例](https://raw.githubusercontent.com/leehamCode/MyPics/main/mtoexcel.png)
 
 #### <font color=licyan>6.FontSets字体设置标签</font>
 
@@ -256,5 +256,5 @@ public class TestClass2
 }
 ```
 
-![图例](http://img.leepichome.top/open1.png)
+![图例](https://raw.githubusercontent.com/leehamCode/MyPics/main/open1.png)
 
